@@ -47,7 +47,7 @@ const createPokemonCard = (pokemon) => {
   const pokemonInnerHtml = `
   <div class="img-container">
     <img
-    src="https://pokeres.bastionbot.org/images/pokemon/${pokemon.id}.png"
+    src="https://cdn.traction.one/pokedex/pokemon/${pokemon.id}.png"
     alt=""
     />
   </div>
